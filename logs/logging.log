@@ -34,3 +34,22 @@ Source-Age: 28
 [2025-02-17 10:40:04,452: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
 
 x==========x]
+[2025-02-18 09:26:41,789: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-02-18 09:26:41,790: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-02-18 09:26:41,791: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-18 09:26:41,791: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-02-18 09:26:41,792: INFO: common: created directory at: artifacts]
+[2025-02-18 09:26:41,792: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-02-18 09:26:41,792: INFO: data_ingestion: File already exists]
+[2025-02-18 09:26:41,793: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2025-02-18 09:26:41,793: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-02-18 09:26:41,794: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-02-18 09:26:41,794: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-18 09:26:41,795: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-02-18 09:26:41,795: INFO: common: created directory at: artifacts]
+[2025-02-18 09:26:41,795: INFO: common: created directory at: artifacts/data_validation]
+[2025-02-18 09:26:41,802: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
